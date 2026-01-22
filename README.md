@@ -64,7 +64,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
-- [ ] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
+- [x] [TryHackMe | Search Skills](https://tryhackme.com/r/room/searchskills)
 - [ ] [TryHackMe | Windows Command Line](https://tryhackme.com/r/room/windowscommandline)
 - [ ] [TryHackMe | Hosted Hypervisors](https://tryhackme.com/r/room/hostedhypervisors)
 - [ ] [TryHackMe | Enumeration & Brute Force](https://tryhackme.com/r/room/enumerationbruteforce)
@@ -81,16 +81,16 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 - [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 - [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 - [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [x] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
 - [ ] [TryHackMe | Modules](https://tryhackme.com/room/linuxmodules)
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 - [ ] [Basics of Linux](https://linuxjourney.com/) -- added this since the fundamentals rooms were all made premium.
       In case you need deeper study into Linux read follow these:
 - [A very deep dive book](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf) -- It's around 900 pages
@@ -98,9 +98,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 
 ## Windows Fundamentals
 
-- [ ] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
-- [ ] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
-- [ ] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
+- [x] [TryHackMe | Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)
+- [x] [TryHackMe | Windows Fundamentals 2](https://tryhackme.com/room/windowsfundamentals2x0x)
+- [x] [TryHackMe | Windows Fundamentals 3](https://tryhackme.com/room/windowsfundamentals3xzx)
 
 ## Basics Rooms
 
@@ -112,7 +112,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 - [ ] [TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 - [ ] [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
-- [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 - [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
@@ -354,7 +354,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
 - [ ] [TryHackMe | Ignite](https://tryhackme.com/room/ignite)
 - [ ] [TryHackMe | Kenobi](https://tryhackme.com/room/kenobi)
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [x] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 - [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
 ## AI
@@ -412,7 +412,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Oracle 9](https://tryhackme.com/room/oracle9)
 - [ ] [TryHackMe | Billing](https://tryhackme.com/room/billing)
 - [ ] [TryHackMe | Light](https://tryhackme.com/room/lightroom)
-- [ ] [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
+- [x] [TryHackMe | Lo-Fi](https://tryhackme.com/room/lofi)
 - [ ] [TryHackMe | Silver Platter](https://tryhackme.com/r/room/silverplatter)
 - [ ] [TryHackMe | The Sticker Shop](https://tryhackme.com/r/room/thestickershop)
 - [ ] [TryHackMe | Lookup](https://tryhackme.com/r/room/lookup)
@@ -428,7 +428,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | mKingdom](https://tryhackme.com/r/room/mkingdom)
 - [ ] [TryHackMe | Linux Process Analysis](https://tryhackme.com/r/room/linuxprocessanalysis)
 - [ ] [TryHackMe | CyberLens](https://tryhackme.com/r/room/cyberlensp6)
-- [ ] [TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/r/room/tryhack3mbricksheist)
+- [x] [TryHackMe | TryHack3M: Bricks Heist](https://tryhackme.com/r/room/tryhack3mbricksheist)
 - [ ] [TryHackMe | Creative](https://tryhackme.com/r/room/creative)
 - [ ] [TryHackMe | Eviction](https://tryhackme.com/room/eviction)
 - [ ] [TryHackMe | Probe](https://tryhackme.com/room/probe)
