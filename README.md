@@ -199,7 +199,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Breaking Crypto the Simple Way](https://tryhackme.com/room/breakingcryptothesimpleway)
 - [ ] [TryHackMe | Crypto Failures](https://tryhackme.com/room/cryptofailures)
 - [ ] [TryHackMe | Breaking RSA](https://tryhackme.com/room/breakrsa)
-- [ ] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
+- [x] [TryHackMe | Cryptography for Dummies](https://tryhackme.com/room/cryptographyfordummies)
 - [ ] [TryHackMe | Crack the hash](https://tryhackme.com/room/crackthehash)
 - [ ] [TryHackMe | Crack The Hash Level 2](https://tryhackme.com/room/crackthehashlevel2)
 - [ ] [TryHackMe | Agent Sudo](https://tryhackme.com/room/agentsudoctf)
