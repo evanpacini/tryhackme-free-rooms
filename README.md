@@ -65,7 +65,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Intro PoC Scripting](https://tryhackme.com/room/intropocscripting)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
 - [ ] [TryHackMe | Web Application Basics](https://tryhackme.com/r/room/webapplicationbasics)
-- [ ] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
+- [x] [TryHackMe | Cryptography Basics](https://tryhackme.com/r/room/cryptographybasics)
 - [ ] [TryHackMe | CyberChef: The Basics](https://tryhackme.com/r/room/cyberchefbasics)
 - [ ] [TryHackMe | SOC Fundamentals](https://tryhackme.com/r/room/socfundamentals)
 - [ ] [TryHackMe | Networking Concepts](https://tryhackme.com/r/room/networkingconcepts)
