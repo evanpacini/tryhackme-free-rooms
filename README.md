@@ -506,7 +506,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Lian_Yu](https://tryhackme.com/room/lianyu)
 - [ ] [TryHackMe | The Cod Caper](https://tryhackme.com/room/thecodcaper)
 - [ ] [TryHackMe | Blaster](https://tryhackme.com/room/blaster)
-- [ ] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
+- [x] [TryHackMe | Encryption - Crypto 101](https://tryhackme.com/room/encryptioncrypto101)
 - [ ] [TryHackMe | Brooklyn Nine Nine](https://tryhackme.com/room/brooklynninenine)
 - [ ] [TryHackMe | Year of the Rabbit](https://tryhackme.com/room/yearoftherabbit)
 - [ ] [TryHackMe | Jack-of-All-Trades](https://tryhackme.com/room/jackofalltrades)
